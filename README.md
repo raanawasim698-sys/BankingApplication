@@ -77,6 +77,3 @@ VaultBank persists its state to `bank_data.ser` using Java serialization, via th
 
 > **Note:** Since this uses Java's native serialization, the saved data is tied to matching class versions — changing the model classes can make old `.ser` files unreadable.
 
-## License
-
-Add a license of your choice (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/) for guidance.
